@@ -24,3 +24,9 @@ Amostras de Saída
 A=12,5664
 A=31819.3103
 A=70685.7750
+
+### Outras atividades desenvolvidas no curso
+ https://github.com/Galdino13/Atividade2Flutter  <br>
+ https://github.com/Galdino13/Atividade3Flutter  <br>
+ https://github.com/Galdino13/contadorapp  <br>
+ https://github.com/Galdino13/Projeto_1_E_2  <br>
