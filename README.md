@@ -1,7 +1,7 @@
 # Atividade1Flutter
-Atividade do Curso de Flutter que foi ofertado pelo IFAL Campus Maceió.
-Questão 1002 área do Círculo
- questão do site: https://www.beecrowd.com.br/judge/en/login 
+Atividade do Curso de Flutter que foi ofertado pelo IFAL Campus Maceió. <br>
+Questão 1002 área do Círculo <br>
+ questão do site: https://www.beecrowd.com.br/judge/en/login <br>
 Área de um círculo
 Adaptado por Neilor Tonin, URI Brasil
 Limite de tempo: 1
